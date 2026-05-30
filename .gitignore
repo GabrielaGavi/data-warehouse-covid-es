@@ -1,0 +1,13 @@
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+*.db
+*.pyc
+__pycache__/
+.venv/
+venv/
+MICRODADOS.csv
+data/MICRODADOS.csv
+data/exemplo_microdados.csv
+tutorial_dw_covid.pdf
+entrega_dw_covid/
