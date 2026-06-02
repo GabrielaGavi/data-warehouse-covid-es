@@ -6,6 +6,8 @@ A implementação usa Python + SQLite para carregar o `MICRODADOS.csv`, popular
 as dimensões, carregar a tabela fato, gerar um data mart agregado e exibir um
 dashboard em Streamlit.
 
+Para encontrar o `MICRODADOS.csv`, entre no site https://coronavirus.es.gov.br/painel-covid-19-es
+
 ## Como executar
 
 Para criar o banco SQLite:
