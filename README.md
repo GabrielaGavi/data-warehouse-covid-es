@@ -8,13 +8,6 @@ dashboard em Streamlit.
 
 ## Como executar
 
-O arquivo `MICRODADOS.csv` não deve ser enviado ao GitHub. Para executar o
-projeto localmente, coloque o CSV na raiz do projeto:
-
-```text
-MICRODADOS.csv
-```
-
 Para criar o banco SQLite:
 
 ```bash
@@ -26,9 +19,6 @@ O comando gera:
 ```text
 dw_covid.sqlite
 ```
-
-O banco gerado também não deve ser versionado.
-
 Para gerar o relatório de nulos:
 
 ```bash
